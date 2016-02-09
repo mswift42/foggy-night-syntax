@@ -2,6 +2,8 @@
 
 A dark, low contrast theme with very pleasant colors.
 
+Created with [ThemeCreator](https://github.com/mswift42/themecreator).
+
 ### Screenshots: 
 
 Javascript and Clojure:
